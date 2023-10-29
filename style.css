@@ -888,7 +888,7 @@ section.section-visible:before {
   position: relative;
   top: 2px;
 }
-
+.simplebar-content{padding: 60px;}
 .hero {
   background-position: right bottom;
   background-repeat: no-repeat;
@@ -2511,7 +2511,7 @@ body {
   body {
     font-size: 16px;
   }
-
+  .simplebar-content{padding: 20px;}
   .hero .contact-info {
     right: 0;
     left: 0;
@@ -2563,7 +2563,7 @@ body {
   section {
     padding: 20px;
   }
-
+  .simplebar-content{padding: 0px;}
   .hero .contact-info {
     display: none;
   }
